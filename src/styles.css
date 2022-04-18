@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(#d8e2dc, #ffd7ba);
+}
+
+.number input[type="number"] {
+  width: 100%;
+  padding: 10px;
+}
+
+.Espacio {
+  margin-left: 205px;
+  width: 700px;
+  padding: 50px;
+  background: rgba(0,
+      0,
+      0,
+      0.1);
+  /*Esto es para que el background de div sea negro pero se le coloca (.5) para traspariencia t que aga contraste con el fondo de la pagina*/
+  border-radius: 10px;
+}
+
+.header {
+  color: black;
+  padding: 30px;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+
+.button button {
+  width: 120px;
+  margin-left: 20px;
+  font-size: 25px;
+  padding: 0px;
+}
+
+label {
+  font-size: 20px;
+}
+
+.resultado {
+  margin-left: 215px;
+}
