@@ -1,4 +1,4 @@
-# WebPack-Inicial
+# CalculadoraBasica_WebPack
 Esta es una calculadora con operaciones básicas, creada a partir de tecnologías tales como: HTML, CSS, JavaScript y WebPack.
 
 ### Notas:
